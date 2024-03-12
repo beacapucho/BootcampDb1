@@ -14,6 +14,6 @@
 - Gerar o commit
 - Enviar para o GitHub
 
-#Segunda Aula:
+# Segunda Aula:
 - conventional commits
 - Branchs
