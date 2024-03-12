@@ -13,3 +13,7 @@
 - Alterar o arquivo README.md
 - Gerar o commit
 - Enviar para o GitHub
+
+#Segunda Aula:
+- conventional commits
+- Branchs
